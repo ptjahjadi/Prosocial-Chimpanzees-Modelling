@@ -1,4 +1,4 @@
-# Prosocial-Chimpanzees-Modelling
+# Prosocial-Chimpanzees-Models
 ## Aim
 This report aims to predict prosocial tendencies of chimpanzees by developing a generalised linear model. This is the second project of the Modern Applied Statistics (MAST30027) subject at the University of Melbourne.
 ## Summary
